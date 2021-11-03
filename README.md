@@ -1,10 +1,10 @@
 # nodejs-api-sql-database
 API using CRUD operations. Info updated using mySQL
 
-Router Diagram:
+Router Diagram:<br />
 ![ImageForReadme](/imagesForReadme/FreelancerROuter.PNG)
 
-Examples:
+Examples:<br />
 ![ImageForReadme](/imagesForReadme/freelancer_delete_curl.PNG)
 ![ImageForReadme](/imagesForReadme/freelancer_get_curl.PNG)
 ![ImageForReadme](/imagesForReadme/freelancer_post_curl.PNG)
