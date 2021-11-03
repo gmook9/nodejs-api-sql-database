@@ -8,7 +8,6 @@ Examples:<br />
 ![ImageForReadme](/imagesForReadme/freelancer_delete_curl.PNG)
 ![ImageForReadme](/imagesForReadme/freelancer_get_curl.PNG)
 ![ImageForReadme](/imagesForReadme/freelancer_post_curl.PNG)
-![ImageForReadme](/imagesForReadme/freelancer_post_curl_2.png)
 ![ImageForReadme](/imagesForReadme/freelancer_post_curl_good.PNG)
 ![ImageForReadme](/imagesForReadme/profile_GET_curl(VIEW).PNG)
 ![ImageForReadme](/imagesForReadme/profile_POST_curl.PNG)
